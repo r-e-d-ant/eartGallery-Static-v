@@ -1,5 +1,5 @@
 # eartGallery Static version
-eArtGallery is static version of an online art gallery
+eArtGallery is static version of an online art gallery, view it in live <a href="https://eartgallery-static.netlify.app/">here</a>
 
 * check the dynamic version built in React.Js and Art gallery API from Art Institute of Chicago <a href="https://github.com/r-e-d-ant/eartgallery">here</a>
 
